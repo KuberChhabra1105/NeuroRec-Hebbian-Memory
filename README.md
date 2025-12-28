@@ -1,4 +1,3 @@
-# NeuroRec-Hebbian-Memory
 # NeuroRec: Biologically Inspired Hebbian Recommender System 
 
 ### Hackathon Project Submission
