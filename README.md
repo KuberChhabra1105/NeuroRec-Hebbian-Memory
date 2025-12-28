@@ -1,9 +1,9 @@
 # NeuroRec-Hebbian-Memory
-# NeuroRec: Biologically Inspired Hebbian Recommender System 🧠
+# NeuroRec: Biologically Inspired Hebbian Recommender System 
 
-### 🏆 Hackathon Project Submission
+### Hackathon Project Submission
 
-## 📖 Overview
+## Overview
 **NeuroRec** is a novel approach to recommender systems that moves away from traditional matrix factorization and deep learning backpropagation. Instead, it utilizes **Hebbian Learning Principles** ("Neurons that fire together, wire together") to create a dynamic, sparse memory graph of user preferences.
 
 This system simulates a neural network where:
@@ -39,6 +39,7 @@ While current sparse memory graphs require sufficient exposure time to form stro
 * **Hybrid Initialization:** Pre-weighting synapses using item popularity.
 * **Decay Mechanisms:** Implementing "forgetting" curves to handle drifting user preferences over time.
 
-## 👥 Team
-* [Your Name]
-* [Your Friend's Name]
+## Team - Data Donz
+* Ashutosh Sharma (leader)
+* Kuber Chhabra
+* Manav Bhatt
