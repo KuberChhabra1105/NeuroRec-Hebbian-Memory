@@ -26,8 +26,8 @@ This system simulates a neural network where:
 You can run this project directly in Google Colab without any local setup.
 
 1.  Open the notebook `BDH-Hebbian-Memory.ipynb` in this repository.
-2.  Click the "[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KuberChhabra1105/NeuroRec-Hebbian-Memory/blob/main/BDH-Hebbian-Memory.ipynb)" button (or download and upload to Colab).
-3.  **Run All Cells**: The notebook automatically downloads the MovieLens dataset, so no manual file handling is required.
+2.  Click the "[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KuberChhabra1105/NeuroRec-Hebbian-Memory/blob/main/BDH_Hebbian_Memory.ipynb)"  button (or download and upload to Colab).
+4.  **Run All Cells**: The notebook automatically downloads the MovieLens dataset, so no manual file handling is required.
 
 ##  Future Scope
 While current sparse memory graphs require sufficient exposure time to form strong clusters, future iterations will include:
